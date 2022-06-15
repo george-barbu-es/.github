@@ -2,4 +2,4 @@
 👀 I’m interested in web developing   
 🧙 Web developer with more than 7 years of experience   
 💞️ Currently learning NodeJS   
-📫 How to reach me email adress:george@barbu.cc 
+📫 How to reach me email adress: george@barbu.cc 
