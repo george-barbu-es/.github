@@ -2,7 +2,7 @@
 👀 I’m interested in web developing   
 🧙 Web developer with more than 10 years of experience   
 💞️ Currently learning ReactJS   
-📫 How to reach me email adress: george@barbu.cc 
+📫 How to reach me email adress: george@barbu.es
 
 
 #### Tech Stack
