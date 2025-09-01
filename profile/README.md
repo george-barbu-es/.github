@@ -1,7 +1,6 @@
 👋 Hi, I’m [Barbu George](https://github.com/george-barbu-es)  
 👀 I’m interested in web developing   
 🧙 Web developer with more than 10 years of experience   
-💞️ Currently learning ReactJS   
 📫 How to reach me email adress: george@barbu.es
 
 
