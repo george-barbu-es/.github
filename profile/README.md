@@ -28,5 +28,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 ![AZURE](https://img.shields.io/badge/azure-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DATADOG](https://img.shields.io/badge/datadog-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MONGODB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![George's Profile views](https://komarev.com/ghpvc/?username=george-barbu-cc&color=lightgrey)
