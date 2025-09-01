@@ -27,5 +27,6 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+![AZURE](https://img.shields.io/badge/azure-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![George's Profile views](https://komarev.com/ghpvc/?username=george-barbu-cc&color=lightgrey)
